@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "wisatagoa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 330501.0, "Kecamatan": "Ayah", "Desa": "Jatijajar", "Jenis": "Wisata Goa", "Wisata": "Goa Barat", "X": -7.665298, "Y": 109.436513 }, "geometry": { "type": "Point", "coordinates": [ 109.436513496051006, -7.66529766818236 ] } },
+{ "type": "Feature", "properties": { "ID": 330501.0, "Kecamatan": "Ayah", "Desa": "Jatijajar", "Jenis": "Wisata Goa", "Wisata": "Goa Jatijajar", "X": -7.668023, "Y": 109.426814 }, "geometry": { "type": "Point", "coordinates": [ 109.426814138379996, -7.66802267479291 ] } },
+{ "type": "Feature", "properties": { "ID": 330501.0, "Kecamatan": "Ayah", "Desa": "Candirenggo", "Jenis": "Wisata Goa", "Wisata": "Goa Petruk", "X": -7.702949, "Y": 109.395994 }, "geometry": { "type": "Point", "coordinates": [ 109.395993580505007, -7.70294877498148 ] } }
+]
+}

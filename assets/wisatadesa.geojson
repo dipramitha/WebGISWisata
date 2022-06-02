@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "wisatadesa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 330525.0, "Kecamatan": "Poncowarno", "Desa": "Jembangan", "Jenis": "Wisata Desa", "Wisata": "Jembangan Wisata Alam", "X": -7.654373, "Y": 109.771175 }, "geometry": { "type": "Point", "coordinates": [ 109.771174526736004, -7.65437346300943 ] } },
+{ "type": "Feature", "properties": { "ID": 330513.0, "Kecamatan": "Pejagoan", "Desa": "Pejagoan", "Jenis": "Wisata Desa", "Wisata": "Kampung Etnik", "X": -7.673207, "Y": 109.653595 }, "geometry": { "type": "Point", "coordinates": [ 109.653595211394006, -7.67320713574609 ] } }
+]
+}

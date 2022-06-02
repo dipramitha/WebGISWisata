@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wisatawaduk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 330518.0, "Kecamatan": "Sempor", "Desa": "Sempor", "Jenis": "Wisata Waduk", "Wisata": "Waduk Sempor", "X": -7.566052, "Y": 109.492818 }, "geometry": { "type": "Point", "coordinates": [ 109.492818176463004, -7.56605159453544 ] } }
+]
+}
